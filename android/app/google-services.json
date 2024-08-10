@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "684270020914",
+    "project_id": "foodhub-fa528",
+    "storage_bucket": "foodhub-fa528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684270020914:android:f27a9d0b3b1290385c8f2b",
+        "android_client_info": {
+          "package_name": "com.nourinho.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684270020914-pt1tbtmpdu0rso9n3m7h4uira9tvfb6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nourinho.restaurant",
+            "certificate_hash": "68d564cb5984a02bef8105cd14ecce5fb4610d4f"
+          }
+        },
+        {
+          "client_id": "684270020914-7sttk413k40epjt5q23n0kmjlr32tio2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg05hLNa_RL7ubECbyOkCaZKHKvZrThE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684270020914-7sttk413k40epjt5q23n0kmjlr32tio2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684270020914-7521ng9rrm7a5l0nmmmglnvqqqt9ka33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nourinho.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
